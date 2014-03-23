@@ -1,0 +1,17 @@
+{
+  "name": "pipwerks.scorm",
+  "version": "1.1.20",
+  "homepage": "https://github.com/Aeal/scorm-api-wrapper",
+  "authors": [
+    "tsteele <aeal5566@gmail.com>",
+    "Philip Hutchison"
+  ],
+  "description": "api wrapper for SCORM",
+  "main": "SCORM_API_wrapper.js",
+  "keywords": [
+    "SCORM",
+    "LMS",
+    "pipwerks"
+  ],
+  "license": "MIT"
+}
